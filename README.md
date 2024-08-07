@@ -4,7 +4,7 @@ This repository contains a VHDL implementation of a traffic light controller for
 
 ## Features
 
-- **Clock Frequency Configuration**: The `ClockFrequencyHz` generic parameter allows customization of the clock frequency to fit various system requirements.
+- **Clock Frequency Configuration**: The "ClockFrequencyHz" generic parameter allows customization of the clock frequency to fit various system requirements.
 - **State Machine Implementation**: The controller uses a finite state machine to manage the traffic light signals for both directions.
 - **Signal Outputs**: Separate outputs for north-south and east-west traffic lights, including red, green, and yellow lights.
 
