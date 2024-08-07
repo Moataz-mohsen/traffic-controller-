@@ -19,7 +19,7 @@ This repository contains a VHDL implementation of a traffic light controller for
 ![Capture](https://github.com/user-attachments/assets/6ac97cad-250a-4e4e-a089-7114293218fe)
 
 
-wave form show which led is high and which state we currently at:
+## wave form show which led is high and which state we currently at:
 
 
 
